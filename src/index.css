@@ -1,0 +1,24 @@
+body {
+  background: #223;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: red;
+}
+
+.btn {
+  font-size: 72px;
+}
+
+.result {
+  margin-top: 20px;
+  font-size: 18px;
+  color: white;
+}
